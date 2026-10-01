@@ -1,0 +1,7 @@
+{
+  "name": "GestorFluxo - Organizador Financeiro & Crescimento PJ",
+  "description": "Sistema de gestão financeira empresarial para pequenos negócios e autônomos. Supere o ciclo de receber e gastar com separação PJ/PF, fluxo de caixa, envelopes de lucro e simulador de crescimento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
